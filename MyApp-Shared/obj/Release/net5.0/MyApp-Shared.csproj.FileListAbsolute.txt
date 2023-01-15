@@ -1,0 +1,12 @@
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\bin\Release\net5.0\MyApp-Shared.deps.json
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\bin\Release\net5.0\MyApp-Shared.dll
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\bin\Release\net5.0\MyApp-Shared.pdb
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\MyApp-Shared.csproj.AssemblyReference.cache
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\MyApp-Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\MyApp-Shared.AssemblyInfoInputs.cache
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\MyApp-Shared.AssemblyInfo.cs
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\MyApp-Shared.csproj.CoreCompileInputs.cache
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\MyApp-Shared.dll
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\refint\MyApp-Shared.dll
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\MyApp-Shared.pdb
+C:\Users\hys\Documents\MagicOnion\MyProject\MyApp-Shared\obj\Release\net5.0\ref\MyApp-Shared.dll
