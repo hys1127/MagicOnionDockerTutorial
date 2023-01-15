@@ -1,0 +1,24 @@
+dev2△
+http://*:80〇
+http://0.0.0.0:12345×
+http://hostname:5000〇
+
+dev3×
+http://*:12345
+
+dev4×
+http://hostname:12345
+
+dev5△
+http://hostname:80 〇
+http://*:12345 ×
+
+dev6△
+http://hostname:80 〇
+http://hostname:12345 ×
+
+dev7
+http://*:80〇
+http://hostname:12345 ×
+http://hostname:5000 〇
+　　　　Dockerfile EXPOSE 5000削除
